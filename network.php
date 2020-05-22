@@ -28,7 +28,7 @@ $token = $_SESSION['token'];
           <h3 class="card-title">Network overview</h3>
         </div>
         <div class="card-body">
-            <table id="network-entries" class="display table table-striped table-bordered w-100" cellspacing="0">
+            <table id="network-entries" class="display table table-striped table-bordered w-100">
                 <thead>
                     <tr>
                         <th>IP address</th>
