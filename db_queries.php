@@ -81,7 +81,7 @@ $token = $_SESSION['token'];
 
 <!-- Small boxes (Stat box) -->
 <div class="row">
-    <div class="col-lg-3 col-xs-12">
+    <div class="col-6 col-lg-3">
         <!-- small box -->
         <div class="small-box bg-info">
             <div class="inner">
@@ -94,7 +94,7 @@ $token = $_SESSION['token'];
         </div>
     </div>
     <!-- ./col -->
-    <div class="col-lg-3 col-xs-12">
+    <div class="col-6 col-lg-3">
         <!-- small box -->
         <div class="small-box bg-info">
             <div class="inner">
@@ -107,7 +107,7 @@ $token = $_SESSION['token'];
         </div>
     </div>
     <!-- ./col -->
-    <div class="col-lg-3 col-xs-12">
+    <div class="col-6 col-lg-3">
         <!-- small box -->
         <div class="small-box bg-green">
             <div class="inner">
@@ -120,7 +120,7 @@ $token = $_SESSION['token'];
         </div>
     </div>
     <!-- ./col -->
-    <div class="col-lg-3 col-xs-12">
+    <div class="col-6 col-lg-3">
         <!-- small box -->
         <div class="small-box bg-yellow">
             <div class="inner">

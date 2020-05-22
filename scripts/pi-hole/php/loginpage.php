@@ -37,7 +37,7 @@
                                 <li><kbd>Ctrl + Return</kbd> &rarr; Log in and go to Settings page</li>
                             </ul>
                         </div>
-                        <div class="col-xs-12 col-md-4">
+                        <div class="col-md-4">
                             <div class="form-group pull-left">
                                 <div class="checkbox pull-right">
                                 <label>
