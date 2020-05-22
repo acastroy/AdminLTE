@@ -304,8 +304,8 @@ if($auth) {
                             <div class="col-4 text-center">
                                 <a class="btn-link" href="https://github.com/pi-hole/pi-hole/releases" rel="noopener" target="_blank">Updates</a>
                             </div>
-                            <div id="sessiontimer" class="col-12 text-center">
-                                <strong>Session is valid for <span id="sessiontimercounter"><?php if($auth && strlen($pwhash) > 0){echo $maxlifetime;}else{echo "0";} ?></span></strong>
+                            <div id="sessiontimer" class="col-12 mt-2 text-center font-weight-bold">
+                                Session is valid for <span id="sessiontimercounter"><?php if($auth && strlen($pwhash) > 0){echo $maxlifetime;}else{echo "0";} ?></span>
                             </div>
                         </div>
                     </li>
